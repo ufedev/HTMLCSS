@@ -1,0 +1,19 @@
+html {
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+.title {
+  font-size: 10rem;
+  font-weight: 900;
+  text-align: center;
+}
+
+.container {
+  width: min(120rem, 95%);
+  margin: 5rem auto;
+}
